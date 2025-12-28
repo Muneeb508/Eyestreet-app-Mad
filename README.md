@@ -1,8 +1,18 @@
 # Street Eye – Civic Reporting App (React Native)
 
+Name: Muneeb & Taha
+
 Street Eye is a civic reporting mobile application that helps citizens report, track, and discuss local issues such as garbage, water shortages, road damage, and streetlight problems.
 
 Built using React Native with Firebase as the backend for authentication, real-time data, and storage.
+
+# APK Download (Android)
+
+You can download and install the latest APK from Google Drive:
+
+Street Eye APK (Google Drive): https://drive.google.com/file/d/19Z0PTjNWZUoUu4k4xwJ_nIPeHsKR9uYW/view?usp=drive_link
+
+Note: If Android blocks installation, enable Install unknown apps for your browser or file manager in settings.
 
 ## Core Screens (5 Screens)
 
